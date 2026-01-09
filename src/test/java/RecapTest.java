@@ -12,7 +12,7 @@ public class RecapTest {
     @Test
     void assertEqualsRecap() {
         int a = 1;
-        int b = 1;
+        int b = 2;
 
         Assertions.assertEquals(a, b);
     }
